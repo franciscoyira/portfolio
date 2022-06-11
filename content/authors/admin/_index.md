@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: R, Python, causal inference, machine learning, data visualisation.
 education:
   courses:
   - course: Diploma in Econometrics
