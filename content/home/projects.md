@@ -25,14 +25,18 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: All
-      tag: '*'
+    - name: Featured
+      tag: Featured
     - name: Causal Inference
       tag: Causal Inference
     - name: Visualisation
       tag: Visualisation
-    - name: Other
-      tag: Demo
+    - name: Machine Learning
+      tag: Machine Learning
+    - name: R
+      tag: R
+    - name: All
+      tag: '*'
 
 design:
   background:

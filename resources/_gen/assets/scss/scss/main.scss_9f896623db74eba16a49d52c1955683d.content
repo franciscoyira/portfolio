@@ -8947,10 +8947,11 @@ html[dir='rtl'] body {
 .home-section.dark a:not(.btn) {
   color: #fff; }
 
-/* Underline links in dark sections to separate them from text */
+/* Underline links in dark sections to separate them from text
 .home-section.dark a:not(.btn):not(.hero-cta-alt) {
-  text-decoration: underline; }
-
+  text-decoration: underline;
+}
+ */
 /* Revert Alert Box Link style (.home-section.dark style above should not be applied to it) */
 .home-section.dark .alert a, .home-section.dark .article-style aside a, .article-style .home-section.dark aside a {
   color: inherit !important;
