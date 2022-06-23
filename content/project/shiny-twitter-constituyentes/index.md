@@ -20,7 +20,7 @@ links:
   name: Pipeline code
   url: https://github.com/franciscoyira/pipeline-twitter-constituyentes
 #slides: example
-summary: An app built with R's `shiny` and deployed to AWS EC2 that automatically retrieves and visualises the most liked and RT'd tweets from the Chilean politicians who drafted the 2022's constitution proposal. 
+summary: An app built with R's `shiny` and deployed to AWS EC2 that automatically retrieves and visualises the most liked and RT'd tweets from the Chilean politicians who drafted the 2022 constitution proposal. 
 tags:
 - Shiny
 - R
