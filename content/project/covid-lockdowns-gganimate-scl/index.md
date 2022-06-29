@@ -7,9 +7,9 @@ image:
   focal_point: Smart
 share: false
 links:
-- icon: arrow-up-right-from-square
+- icon: image
   icon_pack: fas
-  name: Check it out
+  name: See map
   url: /project/covid-lockdowns-gganimate-scl/lockdown_levels_santiago.gif
 - icon: github 
   icon_pack: fab
@@ -21,6 +21,7 @@ tags:
 - R
 - Visualisation
 - Featured
+- COVID
 title: Animated map of COVID restrictions in Santiago (2020-2022)
 url_code: ""
 url_pdf: ""
