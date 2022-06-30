@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Francisco Yirá # Website name
-baseURL: 'https://me.franciscoyira.com/' # Website URL
+baseURL: 'https://rad-mooncake-254f54.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
