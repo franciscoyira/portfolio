@@ -46,4 +46,4 @@ Data scientist, economist, and skilled R programmer. I have experience using mac
 
 I am passionate about enabling data-driven decision making and use data to solve problems and generate social impact. I like challenges and I am eager to learn more and share knowledge with others
 
-{{< icon name="up-right-from-square" pack="fas" >}} Check out my {{< staticref "https://franciscoyira.github.io/cv/index" "newtab" >}}CV in document format{{< /staticref >}}.
+{{< icon name="up-right-from-square" pack="fas" >}} {{< staticref "https://franciscoyira.github.io/cv/index" "newtab" >}}CV in document format{{< /staticref >}}.
