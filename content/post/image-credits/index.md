@@ -9,9 +9,9 @@ featured: false
 title: Credits for the images on the Landing page
 ---
 
-![](images/background16.jpg)
+![](images/background13.jpg)
 
-> Photo by [Izuddin Helmi Adnan](https://unsplash.com/@izuddinhelmi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/city-lights?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+> Photo by [Dino Reichmuth](https://unsplash.com/@dinoreichmuth) on [Unsplash](https://unsplash.com/photos/kk3W5-0b6e0)
 
 ![Image by Shubham Dhage on Unsplash](images/background3.jpg)
 
