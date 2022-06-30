@@ -47,10 +47,10 @@ content:
       icon_pack: fab
       name: DM Me
       link: 'https://twitter.com/messages/compose?recipient_id=1050927630122389506&text=Hello!'
-    - icon: microsoft
-      icon_pack: fab
-      name: Chat with me on Teams
-      link: 'https://teams.microsoft.com/l/chat/0/0?users=francisco.yira@outlook.com'
+    - icon: envelope
+      icon_pack: fas
+      name: E-mail me
+      link: 'mailto:francisco.yira@outlook.com'
 
 design:
   columns: '2'

@@ -4,8 +4,8 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: About Me
-    url: '#about'
+  - name: Summary
+    url: '#summary'
     weight: 10
   - name: Portfolio
     url: '#projects'
@@ -22,6 +22,9 @@ main:
   - name: Blog
     url: 'https://franciscoyira.com'
     weight: 60
+  - name: Newsletter
+    url: 'https://franciscoyira.com/subscribe/'
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
