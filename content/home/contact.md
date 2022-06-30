@@ -45,7 +45,7 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
+      name: DM me
       link: 'https://twitter.com/messages/compose?recipient_id=1050927630122389506&text=Hello!'
     - icon: envelope
       icon_pack: fas
