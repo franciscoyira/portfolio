@@ -43,7 +43,8 @@ experience:
     date_end: '2020-01-01'
     description: |2-
         * Developed data transformation processes and implemented machine learning models that allowed the deployment of a personalized marketing strategy for the company's most important local brand. This included the development of churn models and clustering on transactional data.
-      * Led the development of an internal R package aimed at streamlining processes and accelerating deliveries in our area.
+      * Led the development of an internal R package aimed at streamlining processes and accelerating deliveries in our area (find out more [here](https://cv.franciscoyira.com/project/walmart-chile-r-package/)).
+      * Led the impact evaluation of the personalised marketing project by designing, implementing, and supervising A/B tests, in close collaboration with the CRM Ops team. This included devising solutions for increasing statistical power in contexts of small treatment effects.
       * Introduced the use of version control and unit tests to the team.
     
   - title: Data Analyst

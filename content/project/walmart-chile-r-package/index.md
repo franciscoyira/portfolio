@@ -12,7 +12,7 @@ links:
   name: See presentation
   url: https://1drv.ms/b/s!AszM2hDRx-RZn6dnZ__u1G4EEQy2ow
 #slides: example
-summary: R package to accelerate and streamline the delivering of analyses and data products at Walmart, inspired by the successful experience of Airbnb with their `Rbnb` internal package.
+summary: R package to accelerate and streamline the delivery of analyses and data products at Walmart, inspired by the successful experience of Airbnb with their `Rbnb` internal package.
 tags:
 - R
 - Featured
@@ -23,7 +23,7 @@ url_slides: ""
 url_video: ""
 ---
 
-While working at Walmart Chile, I led the development of an internal R package to accelerate and streamline the delivering of analyses and data products, inspired by [the successful experience of the Airbnb data team with their `Rbnb` internal package](https://medium.com/airbnb-engineering/using-r-packages-and-education-to-scale-data-science-at-airbnb-906faa58e12d).
+While working at Walmart Chile, I led the development of an internal R package to accelerate and streamline the delivery of analyses and data products, inspired by [the successful experience of the Airbnb data team with their `Rbnb` internal package](https://medium.com/airbnb-engineering/using-r-packages-and-education-to-scale-data-science-at-airbnb-906faa58e12d).
 
 The benefits that our package provided include the following:
 
