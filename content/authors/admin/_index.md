@@ -16,7 +16,7 @@ highlight_name: true
 interests:
 - Causal Inference and Experimentation
 - Machine Learning
-- Data Visualization
+- Data Visualisation
 - Dashboards and Automation
 #  organizations:
 # - name: Stanford University
