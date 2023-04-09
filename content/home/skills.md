@@ -34,15 +34,15 @@ feature:
   - icon: microchip
     icon_pack: fas
     name: Machine Learning
+  - icon: comments
+    icon_pack: fas
+    name: Effective communication with stakeholders
   - icon: aws
     icon_pack: fab
     name: Amazon Web Services
   - icon: git-alt
     icon_pack: fab
-    name: Git
-  - icon: comments
-    icon_pack: fas
-    name: Communication and presentations
+    name: Git-based collaboration
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

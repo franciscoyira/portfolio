@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Optimisation of digital advertising budgets through statistical modelling
+    company: Marketing Advance
+    company_url: 'https://www.tapcast.io/'
+    company_logo: mkt_advance
+    location: San Francisco, US (Remote)
+    date_start: '2022-06-01'
+    date_end: '2022-08-01'
+    description: Optimised budget allocation and estimated Return-of-investment metrics for digital advertising channels by performing Marketing Mix Modelling with Meta’s ‘[`Robyn`](https://facebookexperimental.github.io/Robyn/)’ R package.
+  
   - title: Data collection for a survey of higher education institutions
     company: Ministry of Education, Government of Chile
     company_url: 'https://www.mineduc.cl/ministerio/mision/'

@@ -23,7 +23,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Data Scientist
-    company: WOM
+    company: MACH (Fintech)
+    company_url: 'hhttps://www.somosmach.com/'
+    company_logo: mach
+    location: Santiago, Chile
+    date_start: '2022-08-30'
+    #date_end: '2021-10-18'
+    description: |2-
+        * Used Apache Airflow to develop an analytical asset that triggered proactive retention initiatives when a significant drop in transaction frequency was detected.
+        * Proposed and implemented an experimentation framework for A/B testing best practices.
+        * Trained predictive machine learning models using AWS cloud infrastructure (SageMaker, Athena and Glue) and PySpark.
+        * Evaluated the causal impact of referral campaigns using Matching when the use of randomised control groups was not feasible.
+
+  - title: Data Scientist
+    company: WOM (Telecommunications)
     company_url: 'https://novator.co.uk/portfolio/wom/'
     company_logo: logo-wom
     location: Santiago, Chile
@@ -35,7 +48,7 @@ experience:
         * Performed impact evaluations of network investments using A/B testing, differences in differences, and matching.
         
   - title: Data Scientist
-    company: Walmart Chile
+    company: Walmart Chile (Retail)
     company_url: 'https://corporate.walmart.com/about/chile'
     company_logo: Walmart_logo
     location: Santiago, Chile
@@ -48,7 +61,7 @@ experience:
       * Introduced the use of version control and unit tests to the team.
     
   - title: Data Analyst
-    company: Walmart Chile
+    company: Walmart Chile (Retail)
     company_url: 'https://corporate.walmart.com/about/chile'
     company_logo: Walmart_logo
     location: Santiago, Chile
