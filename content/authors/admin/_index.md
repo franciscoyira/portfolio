@@ -39,6 +39,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/franciscoyira
+- icon: mastodon 
+  icon_pack: fab
+  link: https://techhub.social/@franciscoyira # Add this line
 superuser: true
 title: Francisco Yirá
 ---
