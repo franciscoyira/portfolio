@@ -22,7 +22,7 @@ tags:
 - Python
 - R
 - Featured
-title: Advent of Code Solutioms
+title: Advent of Code Solutions
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -28,7 +28,7 @@ experience:
     company_logo: mach
     location: Santiago, Chile
     date_start: '2022-08-30'
-    #date_end: '2021-10-18'
+    date_end: '2024-01-03'
     description: |2-
         * Used Apache Airflow to develop an analytical asset that triggered proactive retention initiatives when a significant drop in transaction frequency was detected.
         * Proposed and implemented an experimentation framework for A/B testing best practices.
