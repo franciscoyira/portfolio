@@ -20,7 +20,6 @@ summary: Visualisation of IMDB data about Doctor Who episodes, showing the numbe
 tags:
 - R
 - Visualisation
-- Featured
 title: IMDB ratings of Doctor Who episodes by director
 url_code: ""
 url_pdf: ""

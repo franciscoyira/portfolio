@@ -46,9 +46,6 @@ social:
 - icon: mastodon 
   icon_pack: fab
   link: https://techhub.social/@franciscoyira # Add this line
-- icon: cv
-  icon_pack: ai
-  link: https://franciscoyira.github.io/cv/index
 superuser: true
 title: Francisco Yirá
 ---

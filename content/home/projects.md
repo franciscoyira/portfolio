@@ -29,8 +29,8 @@ content:
       tag: Featured
     - name: Causal Inference
       tag: Causal Inference
-    - name: Visualisation
-      tag: Visualisation
+    - name: Python
+      tag: Python
     - name: Machine Learning
       tag: Machine Learning
     - name: R

@@ -7,10 +7,10 @@ image:
   focal_point: Smart
 share: false
 links:
-- icon: arrow-up-right-from-square
-  icon_pack: fas
-  name: Check it out
-  url: https://constituyentes.franciscoyira.com/
+#- icon: arrow-up-right-from-square
+#  icon_pack: fas
+#  name: Check it out
+#  url: https://constituyentes.franciscoyira.com/
 - icon: github
   icon_pack: fab
   name: App code
@@ -27,7 +27,7 @@ tags:
 - AWS
 - Visualisation
 - Featured
-title: Shiny app on AWS tracking the Twitter presence of Chilean constituents
+title: Web dashboard on AWS monitoring engagement with politicians' tweets
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -36,7 +36,9 @@ url_video: ""
 
 ![](images/shiny_app.png)
 
-This project consists of a Shiny app that automatically retrieves the latest tweets from the 150 politicians who drafted the 2022 Chilean constitution proposal and displays a set of interactive visualisations using that data. The visualisations focus on measuring the engagement (Likes and Retweets) that the constituents' tweets get and allow reading the most engaged tweets without leaving the app.
+This project consisted on a Shiny app that automatically retrieved the latest tweets from the 150 politicians who drafted the 2022 Chilean constitution proposal and displays a set of interactive visualisations using that data. The visualisations focus on measuring the engagement (Likes and Retweets) that the constituents' tweets get and allow reading the most engaged tweets without leaving the app.
+
+*(Please note that due to AWS cost considerations, the application is currently inactive. The code can still be explored through the links below.).*
 
 ## How it works
 
