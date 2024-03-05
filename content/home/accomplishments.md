@@ -28,7 +28,7 @@ item:
     date_end: '2023-12-02'
     description: 'Completed the Big Data with PySpark track, covering Apache Spark mastery using the PySpark Python API. The track included courses on PySpark basics, data cleaning, feature engineering, machine learning, and building recommendation engines.'
     organization: DataCamp
-    organization_url: https://www.datacamp.com/tracks/big-data-with-pyspark
+    organization_url: https://www.datacamp.com/
     title: Big Data with PySpark
     url: 'https://www.datacamp.com/tracks/big-data-with-pyspark'
   - certificate_url: https://www.credly.com/badges/152c1ac3-a987-4b06-9346-df318561a3ca/public_url
