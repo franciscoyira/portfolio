@@ -31,7 +31,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: threads
+- icon: twitter
   icon_pack: fab
   link: https://www.threads.net/@francisco_yira
 - icon: globe
@@ -46,6 +46,9 @@ social:
 - icon: mastodon 
   icon_pack: fab
   link: https://techhub.social/@franciscoyira # Add this line
+- icon: cv
+  icon_pack: ai
+  link: https://franciscoyira.github.io/cv/index
 superuser: true
 title: Francisco Yirá
 ---
