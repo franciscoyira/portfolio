@@ -2,6 +2,9 @@
 bio: R, Python, causal inference, machine learning, data visualisation.
 education:
   courses:
+  - course: Applied A.I. Solutions Development Postgraduate Diploma
+    institution: George Brown College
+    year: 2024
   - course: Diploma in Econometrics
     institution: University of Chile
     year: 2020-2021
@@ -16,9 +19,9 @@ highlight_name: true
 interests:
 - Causal Inference and Experimentation
 - Machine Learning
-- Data Visualisation
-- Dashboards and Automation
-- DevOps
+- Data Visualisation and Dashboards
+- Scripting and Automation
+- MLOps
 #  organizations:
 # - name: Stanford University
 #   url: https://www.stanford.edu/
@@ -27,9 +30,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: twitter
+- icon: threads
   icon_pack: fab
-  link: https://twitter.com/francisco_yira
+  link: https://www.threads.net/@francisco_yira
 - icon: globe
   icon_pack: fas
   link: https://franciscoyira.com
