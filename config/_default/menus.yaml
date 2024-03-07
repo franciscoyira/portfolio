@@ -4,30 +4,27 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Summary
-    url: '#about'
-    weight: 10
   - name: Portfolio
     url: '#projects'
-    weight: 20
+    weight: 10
   - name: Experience
     url: '#experience'
-    weight: 30
+    weight: 20
   - name: Education
     url: '#degrees'
-    weight: 40
+    weight: 30
   - name: Contact
     url: '#contact'
-    weight: 50
+    weight: 40
   - name: Blog
     url: 'https://franciscoyira.com'
-    weight: 60
+    weight: 50
   - name: Newsletter
     url: 'https://franciscoyira.com/subscribe/'
-    weight: 70
+    weight: 60
   - name: Download CV as PDF
     url: https://franciscoyira.github.io/cv/index
-    weight: 80
+    weight: 70
     icon_pack: fas
     icon: download
 
