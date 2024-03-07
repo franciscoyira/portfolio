@@ -25,9 +25,12 @@ main:
   - name: Newsletter
     url: 'https://franciscoyira.com/subscribe/'
     weight: 70
+  - name: Download CV as PDF
+    url: https://franciscoyira.github.io/cv/index
+    weight: 80
+    icon_pack: fas
+    icon: download
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70

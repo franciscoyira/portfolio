@@ -9,7 +9,7 @@ headless: true
 weight: 80
 
 title: Contact Me
-subtitle: Let's talk!
+subtitle: Let's talk! (I DO check this contact form)
 
 content:
   # Automatically link email and phone or display as text?
@@ -27,12 +27,11 @@ content:
   # Contact details (edit or remove options as required)
   #email: francisco.yira@outlook.com
   #phone: +56 9 5115 9191
-#  address:
-#    #street: 
-#    city: Santiago
-#    country: Chile
-#    country_code: CL
-#    #region: CA
+  address:
+    city: Downtown Toronto
+    country: Canada
+    country_code: CAD
+    region: Ontario, Canada
 #    #postcode: '94305'
 #  coordinates:
 #    latitude: '37.4275'
@@ -43,10 +42,6 @@ content:
 #    - 'Wednesday 09:00 to 10:00'
   appointment_url: 'https://calendly.com/francisco-yira/meeting-with-francisco-yira'
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM me
-      link: 'https://twitter.com/messages/compose?recipient_id=1050927630122389506&text=Hello!'
     - icon: envelope
       icon_pack: fas
       name: E-mail me

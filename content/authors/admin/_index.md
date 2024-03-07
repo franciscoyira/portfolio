@@ -28,9 +28,6 @@ interests:
 #   url: https://www.stanford.edu/
 role: Data Scientist and Economist
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
 - icon: twitter
   icon_pack: fab
   link: https://www.threads.net/@francisco_yira
@@ -50,7 +47,7 @@ superuser: true
 title: Francisco Yirá
 ---
 
-Data scientist with background in economics and high proficiency in R programming. Skilled in applying machine learning techniques to optimise business outcomes in retail and marketing/CRM, as well as conducting statistical modelling and causal inference to answer business questions.
+Data scientist with background in Economics and high proficiency in R programming. Skilled in applying machine learning techniques to optimise business outcomes in retail and marketing/CRM, as well as conducting statistical modelling and causal inference to answer business questions.
 
 Experienced in automating processes and reports. Also proficient in Python for data analysis and model training. Passionate about leveraging data to enable data-driven decision making and to solve complex problems with social impact. Enthusiastic about learning new skills and sharing knowledge with others.
 

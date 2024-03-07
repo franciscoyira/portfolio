@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Data scientist with a background in economics and expertise in R, Python, AWS, causal inference and ML.'
+    description: 'Data scientist with a background in economics and expertise in R, SQL, Python, AWS, causal inference and machine learning / AI.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
