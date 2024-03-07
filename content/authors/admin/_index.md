@@ -1,5 +1,8 @@
 ---
 bio: R, Python, causal inference, machine learning, data visualisation.
+location:
+  city: Toronto
+  country: Canada
 education:
   courses:
   - course: Applied A.I. Solutions Development Postgraduate Diploma

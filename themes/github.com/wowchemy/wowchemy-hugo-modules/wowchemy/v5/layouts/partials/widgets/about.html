@@ -55,6 +55,13 @@
         {{ end }}
       </div>
 
+      {{ with $person.location }} <!-- Check if location data exists -->
+      <div class="location">
+        <i class="fas fa-map-marker-alt"></i> <!-- FontAwesome icon for location -->
+        <span>{{ .city }}, {{ .country }}</span> <!-- Displaying city and country -->
+      </div>
+      {{ end }}
+
       <ul class="network-icon" aria-hidden="true">
         {{ range $person.social }}
         {{ $pack := or .icon_pack "fas" }}

@@ -24,10 +24,10 @@ feature:
     name: Python
   - icon: database
     icon_pack: fas
-    name: SQL
+    name: Advanced SQL
   - icon: chart-line
     icon_pack: fas
-    name: Data visualisation
+    name: Visualisation and Dashboards
   - icon: vial
     icon_pack: fas
     name: Causal Inference and Experimentation
@@ -36,13 +36,13 @@ feature:
     name: Machine Learning
   - icon: comments
     icon_pack: fas
-    name: Effective communication with stakeholders
+    name: Effective Communication with Stakeholders
   - icon: aws
     icon_pack: fab
     name: Amazon Web Services
-  - icon: git-alt
-    icon_pack: fab
-    name: Git-based collaboration
+  - icon: terminal
+    icon_pack: fas
+    name: Git and Command Line
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
