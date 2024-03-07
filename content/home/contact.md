@@ -9,7 +9,7 @@ headless: true
 weight: 80
 
 title: Contact Me
-subtitle: Let's talk! I DO check this contact form and I'm open to work on new projects.
+subtitle: Let's connect! I actively monitor this form and welcome new project opportunities.
 
 content:
   # Automatically link email and phone or display as text?
