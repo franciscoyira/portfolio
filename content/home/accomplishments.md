@@ -23,7 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://1drv.ms/b/s!AszM2hDRx-RZp5JYOsayhkgfwoPnkw?e=0IJidd
+  - certificate_url: https://www.credly.com/badges/6a8cbac6-5696-4686-8e3f-666dd68140dd/print
+    date_start: '2024-02-07'
+    description: 'Achieved badge from IBM demonstrating foundational skills in applying design thinking principles at scale, focusing on user-centric research, innovative problem-solving, and compelling storytelling to address and understand user challenges.'
+    organization: IBM
+    organization_url: https://www.ibm.com
+    title: Enterprise Design Thinking Practitioner
+    url: 'https://www.ibm.com/training/badge/enterprise-design-thinking-practitioner'
+  - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/316a23cb17a54a5b31bc4d9cf1b8df3f8681b459
     date_start: '2023-06-02'
     date_end: '2023-12-02'
     description: 'Completed the Big Data with PySpark track, covering Apache Spark mastery using the PySpark Python API. The track included courses on PySpark basics, data cleaning, feature engineering, machine learning, and building recommendation engines.'

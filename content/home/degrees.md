@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postgraduate Diploma in Applied A.I. Solutions Development
+    company: George Brown College, School of Computer Technology
+    company_url: 'https://www.georgebrown.ca/programs/applied-ai-solutions-development-program-postgraduate-t431'
+    company_logo: gbc
+    location: Toronto, Canada
+    date_start: '2024-01-05'
+    #date_end: '2024-12-24'
+    description: 'A one-year post-graduate program blending computer science, mathematics, and business to develop AI solutions.'
   - title: Diploma in Applied Econometrics
     company: University of Chile, Faculty of Economics and Business
     company_url: 'https://ueconomia.uchile.cl/diploma-en-analisis-econometrico/'
