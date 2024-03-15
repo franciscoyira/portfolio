@@ -33,7 +33,7 @@ item:
   - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/316a23cb17a54a5b31bc4d9cf1b8df3f8681b459
     date_start: '2023-06-02'
     date_end: '2023-12-02'
-    description: 'Completed the Big Data with PySpark track, covering Apache Spark mastery using the PySpark Python API. The track included courses on PySpark basics, data cleaning, feature engineering, machine learning, and building recommendation engines.'
+    description: 'Completed 24-hour course track on Apache Spark using the PySpark Python API. The track included courses on PySpark basics, data cleaning, feature engineering, machine learning, and building recommendation engines.'
     organization: DataCamp
     organization_url: https://www.datacamp.com/
     title: Big Data with PySpark
