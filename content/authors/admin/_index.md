@@ -54,4 +54,4 @@ Data scientist with background in Economics and high proficiency in R programmin
 
 Experienced in automating processes and reports. Also proficient in Python for data analysis and model training. Passionate about leveraging data to enable data-driven decision making and to solve complex problems with social impact. Enthusiastic about learning new skills and sharing knowledge with others.
 
-{{< icon name="up-right-from-square" pack="fas" >}} {{< staticref "https://franciscoyira.github.io/cv/index" "newtab" >}}CV in document format{{< /staticref >}}.
+{{< icon name="up-right-from-square" pack="fas" >}} {{< staticref "resume_francisco_albornoz_march_2024.pdf" "newtab" >}}CV in document format{{< /staticref >}}.

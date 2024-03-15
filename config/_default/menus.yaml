@@ -23,7 +23,7 @@ main:
     url: 'https://franciscoyira.com/subscribe/'
     weight: 60
   - name: Download CV as PDF
-    url: https://franciscoyira.github.io/cv/index
+    url: resume_francisco_albornoz_march_2024.pdf
     weight: 70
     icon_pack: fas
     icon: download
