@@ -38,7 +38,7 @@ experience:
         * Big Data Techniques: Azure Fundamentals, Hadoop ecosystem (HDFS, Pig, Hive, Beeline), Spark, and ETL processes with SQL Server Integration Services.
         * Foundations of Data Management: Data Management Body of Knowledge framework.
         * Applied Mathematical Concepts for Machine Learning: linear algebra, matrix factorization, TF-IDF, gradient descent, convolution, Fourier transforms, signal processing.
-        * Design Thinking for AI.'
+        * Design Thinking for AI.
   - title: Diploma in Applied Econometrics
     company: University of Chile, Faculty of Economics and Business
     company_url: 'https://ueconomia.uchile.cl/diploma-en-analisis-econometrico/'
