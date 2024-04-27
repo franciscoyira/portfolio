@@ -24,16 +24,17 @@ date_format: Jan 2006
 experience:
   - title: Data Scientist
     company: MACH (Fintech)
-    company_url: 'hhttps://www.somosmach.com/'
+    company_url: 'https://www.somosmach.com/'
     company_logo: mach
     location: Santiago, Chile
     date_start: '2022-08-30'
     date_end: '2024-01-03'
     description: |2-
-        * Used Apache Airflow to develop an analytical asset that triggered proactive retention initiatives when a significant drop in transaction frequency was detected.
+        * Enabled targeting of high-potential app users by integrating PySpark machine learning models with CRM data through SQL pipelines on Apache Airflow.
+        *  Increased marketing spend efficiency by conceiving high-ROI initiatives through ideation and A/B testing process, leveraging Amplitude reports and agile methodologies.
         * Proposed and implemented an experimentation framework for A/B testing best practices.
         * Trained predictive machine learning models using AWS cloud infrastructure (SageMaker, Athena and Glue) and PySpark.
-        * Evaluated the causal impact of referral campaigns using Matching when the use of randomised control groups was not feasible.
+        * Assessed ROI of referral campaigns via advanced causal inference techniques when A/B Testing was not feasible.
 
   - title: Data Scientist
     company: WOM (Telecommunications)
@@ -43,9 +44,9 @@ experience:
     date_start: '2020-01-01'
     date_end: '2021-10-18'
     description: |2-
-        * Used interpretable modeling techniques and unsupervised learning to guide the prioritisation of network infrastructure deployments. The resulting insights were made available to stakeholders via interactive reports, using packages such as flexdashboard and plotly.
-        * Trained predictive models with the ML framework H2O to better target potential customers through call centre campaigns.
-        * Performed impact evaluations of network investments using A/B testing, differences in differences, and matching.
+        * Guided deployment of new network infrastructure, identifying areas where upgrades would reduce churn the most.
+        * Tracked network deployment results via geospatial dashboards blending network KQIs with churn and NPS metrics.
+        * Boosted conversion of telesales by developing purchase propensity predictive models with LightGBM.
         
   - title: Data Scientist
     company: Walmart Chile (Retail)
@@ -68,9 +69,9 @@ experience:
     date_start: '2017-11-17'
     date_end: '2018-10-01'
     description: |2-
-        * Gave answers to business questions from Walmart merchants and the marketing team by integrating multiple data sources with R and SQL, and by applying statistical modelling, econometrics and data visualisation techniques.
-      * Automated ad-hoc reports by using parametrised R Markdown documents.
-      * Improved the impact evaluation of key company decisions by incorporating causal inference methodologies in otherwise descriptive analyses.
+        * Provided data-driven insights to marketing and merchants, leveraging econometrics and clear storytelling.
+      * Automated complex, ad-hoc reports through R Markdown and Tableau, increasing throughput of our team.
+      * Assessed the impact of key, C-level decisions via causal inference techniques such as Difference in Differences.
 
 design:
   # background:
