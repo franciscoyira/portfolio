@@ -45,19 +45,19 @@ This project consisted in tackling some of the Advent of Code puzzles for year 2
 
 ### Solutions with R
 
-- [Day 1](https://adventofcode.franciscoyira.com/2023/day/1/)
-- [Day 2](https://adventofcode.franciscoyira.com/2023/day/2/)
-- [Day 4](https://adventofcode.franciscoyira.com/2023/day/4/)
-- [Day 5](https://adventofcode.franciscoyira.com/2023/day/5/)
-- [Day 9](https://adventofcode.franciscoyira.com/2023/day/9/)
-- [Day 10](https://adventofcode.franciscoyira.com/2023/day/10/)
+- [Day 1 - Trebuchet?!](https://adventofcode.franciscoyira.com/2023/day/1/)
+- [Day 2 - Cube Conundrum](https://adventofcode.franciscoyira.com/2023/day/2/)
+- [Day 4 - Scratchcards](https://adventofcode.franciscoyira.com/2023/day/4/)
+- [Day 5 - If You Give A Seed A Fertilizer](https://adventofcode.franciscoyira.com/2023/day/5/)
+- [Day 9 - Mirage Maintenance](https://adventofcode.franciscoyira.com/2023/day/9/)
+- [Day 10 - Pipe Maze](https://adventofcode.franciscoyira.com/2023/day/10/)
 
 ### Solutions with Python
 
-- [Day 3](https://adventofcode.franciscoyira.com/2023/day/3/)
-- [Day 6](https://adventofcode.franciscoyira.com/2023/day/6/)
-- [Day 7](https://adventofcode.franciscoyira.com/2023/day/7/)
-- [Day 8](https://adventofcode.franciscoyira.com/2023/day/8/)
+- [Day 3 - Gear Ratios](https://adventofcode.franciscoyira.com/2023/day/3/)
+- [Day 6 - Wait For It](https://adventofcode.franciscoyira.com/2023/day/6/)
+- [Day 7 - Camel Cards](https://adventofcode.franciscoyira.com/2023/day/7/)
+- [Day 8 - Haunted Wasteland](https://adventofcode.franciscoyira.com/2023/day/8/)
 
 ### Acknowledgements
 

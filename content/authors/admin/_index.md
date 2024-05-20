@@ -21,10 +21,10 @@ email: "francisco.yira@outlook.com"
 highlight_name: true
 interests:
 - Causal Inference and Experimentation
-- Machine Learning
+- Machine Learning and AI
 - Data Visualisation and Dashboards
 - Scripting and Automation
-- MLOps
+- MLOps and Data Engineering
 
 #  organizations:
 # - name: Stanford University
@@ -50,7 +50,7 @@ superuser: true
 title: Francisco Yirá
 ---
 
-Data scientist with background in economics and high proficiency in SQL, R and Python. Certified AWS Cloud Practitioner. Experienced in applying machine learning to improve outcomes in retail and marketing, as well as conducting statistical modelling and causal inference to answer business questions.
+Data scientist with background in economics and high proficiency in SQL, R and Python. Certified as AWS Cloud Practitioner and Tableau Data Analyst. Experienced in applying machine learning to improve outcomes in retail and marketing, as well as conducting statistical modelling and causal inference to answer business questions.
 
 Well-versed in process automation, dashboard-building and data visualization. Passionate about enabling data-driven decision making and to solve complex problems with social impact. Enthusiastic about learning new skills and sharing knowledge with others.
 

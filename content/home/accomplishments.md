@@ -23,6 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://www.credly.com/badges/581f1252-6f98-4fce-97e5-226321a00337/public_url
+    date_start: '2024-05-01'
+    description: 'Validation of core Tableau knowledge and hands-on development skills with Tableau Desktop, Tableau Prep, and Tableau Server, including connecting to data sources, preparing data for analysis, creating impactful visualizations with complex data, and effectively communicating insights through interactive dashboards and storyboards.'
+    organization: Tableau
+    organization_url: https://www.tableau.com/
+    title: Tableau Certified Data Analyst
+    url: 'https://www.tableau.com/learn/certification/certified-data-analyst'
   - certificate_url: https://www.credly.com/badges/6a8cbac6-5696-4686-8e3f-666dd68140dd/print
     date_start: '2024-02-07'
     description: 'Achieved badge from IBM demonstrating foundational skills in applying design thinking principles at scale, focusing on user-centric research, innovative problem-solving, and compelling storytelling to address and understand user challenges.'
