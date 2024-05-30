@@ -50,8 +50,6 @@ superuser: true
 title: Francisco Yirá
 ---
 
-Data scientist with background in economics and high proficiency in SQL, R and Python. Certified as AWS Cloud Practitioner and Tableau Data Analyst. Experienced in applying machine learning to improve outcomes in retail and marketing, as well as conducting statistical modelling and causal inference to answer business questions.
+Hi! I'm Francisco, a data scientist with 6 years of experience across different industries, currently studying Applied AI at George Brown. I am an expert in SQL, R, and Python, and certified on AWS and Tableau. I love using statistics and data to help businesses quantify the impact of what they do and make better decisions. I also enjoy improving business results through machine learning and automation.
 
-Well-versed in process automation, dashboard-building and data visualization. Passionate about enabling data-driven decision making and to solve complex problems with social impact. Enthusiastic about learning new skills and sharing knowledge with others.
-
-{{< icon name="up-right-from-square" pack="fas" >}} {{< staticref "resume_francisco_albornoz_march_2024.pdf" "newtab" >}}CV in document format{{< /staticref >}}.
+{{< icon name="up-right-from-square" pack="fas" >}} {{< staticref "FRANCISCO_ALBORNOZ_resume.pdf" "newtab" >}}CV in document format{{< /staticref >}}.
