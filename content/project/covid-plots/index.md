@@ -15,7 +15,7 @@ links:
 summary: A series of plots and tables that offer different perspectives on the evolution of the pandemic in Chile.
 tags:
 - R
-- Visualisation
+- Visualization
 - COVID
 title: Tracking COVID cases and deaths in Chile
 url_code: ""

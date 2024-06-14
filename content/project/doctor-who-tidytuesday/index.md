@@ -19,7 +19,7 @@ links:
 summary: Visualisation of IMDB data about Doctor Who episodes, showing the number of episodes and distribution of ratings by director. This plot uses custom `ggplot` themes and fonts to match Doctor Who's TV show aesthetic. 
 tags:
 - R
-- Visualisation
+- Visualization
 title: IMDB ratings of Doctor Who episodes by director
 url_code: ""
 url_pdf: ""

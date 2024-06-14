@@ -19,8 +19,7 @@ links:
 summary: Map created with `gganimate` that shows how COVID restrictions and lockdown severity evolved in Santiago (Chile) since the outbreak of the COVID-19 pandemic.
 tags:
 - R
-- Visualisation
-- Featured
+- Visualization
 - COVID
 title: Animated map of COVID restrictions in Santiago (2020-2022)
 url_code: ""

@@ -33,8 +33,8 @@ content:
       tag: Python
     - name: Machine Learning
       tag: Machine Learning
-    - name: R
-      tag: R
+    - name: Visualization
+      tag: Visualization
     - name: All
       tag: '*'
 
