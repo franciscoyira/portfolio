@@ -16,7 +16,7 @@ links:
   url: https://github.com/franciscoyira/aws_airflow_tutorial
 #slides: example
 # The summary is what appears on the home page
-summary: End-to-end project building a data pipeline with Apache Airflow that interacts with AWS services such as RDS and S3.
+summary: End-to-end data pipeline with Apache Airflow that interacts with AWS services such as RDS and S3 and makes the processed data available on PostgreSQL.
 tags:
 - Programming
 - Python
@@ -30,7 +30,7 @@ url_slides: ""
 url_video: ""
 ---
 
-Development of an end-to-end ETL process with **Apache Airflow** that interfaces with **AWS services** such as S3 (bucket storage) and RDS (cloud relational databases).
+Development of an end-to-end ETL process with **Apache Airflow** that interfaces with **AWS services** such as S3 (bucket storage) and RDS (relational databases) to transform data into a format that is more suitable for dashboards and make it available on **PostgreSQL**.
 
 The project included:
 
