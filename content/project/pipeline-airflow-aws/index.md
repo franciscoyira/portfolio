@@ -23,7 +23,7 @@ tags:
 - Featured
 - Data Engineering
 - Airflow
-title: Data Pipeline on Airflow Integrated with AWS Services
+title: Data Pipeline on Apache Airflow with AWS Integration
 url_code: ""
 url_pdf: ""
 url_slides: ""
