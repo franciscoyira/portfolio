@@ -35,6 +35,7 @@ experience:
         * Proposed and implemented an experimentation framework for A/B testing best practices.
         * Trained predictive machine learning models using AWS cloud infrastructure (SageMaker, Athena and Glue) and PySpark.
         * Assessed ROI of referral campaigns via advanced causal inference techniques when A/B Testing was not feasible.
+        * Developed user-friendly dashboards on AWS QuickSight to enable C-level executives to conduct simulations and what-if analysis for promotional campaigns on our app home screen.
 
   - title: Data Scientist
     company: WOM (Telecommunications)
