@@ -29,7 +29,10 @@ experience:
     location: San Francisco, US (Remote)
     date_start: '2022-06-01'
     date_end: '2022-08-01'
-    description: Optimised budget allocation and estimated Return-of-investment metrics for digital advertising channels by performing Marketing Mix Modelling with Meta’s ‘[`Robyn`](https://facebookexperimental.github.io/Robyn/)’ R package.
+    description: |2-
+        * Optimized advertising budget allocation through Marketing Mix Modelling, leveraging Meta's [Robyn](https://facebookexperimental.github.io/Robyn/) package.
+        * Performed validation and fine-tuning of Marketing Mix models with out-of-sample data.
+        *	Estimated ROI for different advertising channels and provided compelling visualizations and reports to stakeholders.
   
   - title: Scripting and Automation for Higher Education Survey
     company: Ministry of Education, Government of Chile
