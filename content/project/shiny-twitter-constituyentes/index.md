@@ -36,7 +36,7 @@ url_video: ""
 
 ![](images/shiny_app.png)
 
-This project consisted on a Shiny app that automatically retrieved the latest tweets from the 150 politicians who drafted the 2022 Chilean constitution proposal and displays a set of interactive visualisations using that data. The visualisations focus on measuring the engagement (Likes and Retweets) that the constituents' tweets get and allow reading the most engaged tweets without leaving the app.
+This project involved creating a Shiny app that automatically fetched the latest tweets from 150 politicians who drafted the 2022 Chilean constitution proposal. The app displays interactive visualizations based on the tweet data, focusing on measuring the engagement (likes and retweets) that the politicians' tweets receive. It also allows users to read the most engaged tweets without leaving the app.
 
 *(Please note that due to AWS cost considerations, the application is currently inactive. The code can still be explored through the links below.).*
 
@@ -44,9 +44,9 @@ This project consisted on a Shiny app that automatically retrieved the latest tw
 
 ![](images/diagram.png)
 
-The data is retrieved using `rtweet` (an R wrapper for the Twitter API) and then wrangled and exported incrementally to an S3 bucket in `.rds` format. This process runs once per week automatically via a Cron Job on EC2.
+I use `rtweet`, an R wrapper for the Twitter API, to retrieve data. The data is then processed through a data pipeline written in R and exported to an S3 bucket in `.rds` format. This process is automated to run once a week using a Cron Job on an EC2 instance.
 
-The same EC2 instance also runs the `app.R` script, which corresponds to the Shiny app itself. This app is connected to the S3 bucket that contains the output of the data pipeline and retrieves the data from there when changes are detected.
+The same EC2 instance hosts the `app.R` script, which is the actual Shiny web app. The app is connected to the S3 bucket containing the data pipeline output. It retrieves data from the bucket when changes are detected.
 
 ## How to use it
 
