@@ -20,11 +20,10 @@ education:
 email: "francisco.yira@outlook.com"
 highlight_name: true
 interests:
-- Causal Inference and Experimentation
 - Machine Learning and AI
+- Causal Inference and Experimentation
 - Data Visualization, Dashboards and Reports
-- Scripting and Automation
-- Business Process Improvement and Optimization
+- Automation
 - MLOps and Data Engineering
 
 #  organizations:
@@ -51,6 +50,8 @@ superuser: true
 title: Francisco Yirá
 ---
 
-Hi! I'm Francisco, a data scientist with 6 years of experience across different industries, currently studying Applied AI at George Brown. I am an expert in SQL, R, and Python, and certified on AWS and Tableau. I love using statistics and data to help businesses quantify the impact of what they do and make better decisions. I also enjoy improving business results through machine learning and automation.
+Hi! I'm Francisco, a data scientist with 6 years of experience across different industries (including retail, Fintech and telco), currently studying Applied AI Solutions Development at George Brown College in Toronto. I am an expert in SQL, R, and Python, and certified on AWS and Tableau.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "FRANCISCO_ALBORNOZ_resume.pdf" "newtab"  >}}CV in document format{{< /staticref >}}.
+I love using statistical modelling and data to help businesses quantify the impact of what they do and make data-driven decisions. I also enjoy improving business outcomes through machine learning, automation and data management best practices.
+
+{{< icon name="download" pack="fas" >}} {{< staticref "FRANCISCO_ALBORNOZ_resume.pdf" "newtab"  >}}Resume in PDF{{< /staticref >}}
