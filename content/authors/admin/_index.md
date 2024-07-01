@@ -30,7 +30,7 @@ interests:
 #  organizations:
 # - name: Stanford University
 #   url: https://www.stanford.edu/
-role: Data Scientist and Economist
+role: Data Scientist
 social:
 - icon: twitter
   icon_pack: fab
