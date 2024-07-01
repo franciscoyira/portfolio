@@ -114,6 +114,9 @@
               {{ if eq .Name "Download CV as PDF" }}
               <i class="fas fa-download"></i> <!-- This line adds the download icon -->
             {{ end }}
+            {{ if eq .Name "Contact" }}
+              <i class="fas fa-envelope"></i> <!-- This line adds the download icon -->
+            {{ end }}
               {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
             </a>
           </li>

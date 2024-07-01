@@ -25,7 +25,7 @@ tags:
 - Shiny
 - R
 - AWS
-- Visualisation
+- Visualization
 - Featured
 title: Web dashboard on AWS monitoring engagement with politicians' tweets
 url_code: ""
@@ -50,7 +50,7 @@ The same EC2 instance hosts the `app.R` script, which is the actual Shiny web ap
 
 ## How to use it
 
-The user interface of the app consists in the following visualisations:
+The user interface of the app consists in the following visualizations:
 
 -   A `plotly` line-plot on the top that displays the trends in total engagement by political coalition. It shows data since the beginning of the drafting of the constitution proposal.
 
@@ -58,7 +58,7 @@ The user interface of the app consists in the following visualisations:
 
 -   Another `reactable` on the bottom-right that displays a ranking of the tweets themselves, sorted by total engagement. It also shows the number of Likes and Retweets and allows sorting by one of these instead of total engagement (the sum of the two).
 
-The visualisations are linked to each other through Shiny's reactive programming, allowing you to filter some of them by selecting elements in another one. The supported reactive interactions are the following:
+The visualizations are linked to each other through Shiny's reactive programming, allowing you to filter some of them by selecting elements in another one. The supported reactive interactions are the following:
 
 -   You can click on one (or several) coalition(s) on the legend of the top plot and the `reactable`s at the bottom will be updated to only show data from the selected coalitions.
 

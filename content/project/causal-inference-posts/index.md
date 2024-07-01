@@ -12,7 +12,7 @@ links:
   url: https://www.franciscoyira.com/categories/causal-inference/
 #slides: example
 # The summary is what appears on the home page
-summary: A series of blog posts explaining key causal inference concepts in my own words, with lots of R code examples, visualisations and memes.
+summary: A series of blog posts explaining key causal inference concepts in my own words, with lots of R code examples, visualizations and memes.
 tags:
 - Causal Inference
 - Blog posts
@@ -25,7 +25,7 @@ url_slides: ""
 url_video: ""
 ---
 
-A series of blog posts explaining key causal inference concepts and methodologies in my own words, with lots of R code examples, visualisations and memes. Low-key aimed towards people like me, who find these ideas easier to grasp with code/algorithms and simulations rather than with math notation.
+A series of blog posts explaining key causal inference concepts and methodologies in my own words, with lots of R code examples, visualizations and memes. Low-key aimed towards people like me, who find these ideas easier to grasp with code/algorithms and simulations rather than with math notation.
 
 1.  [Introduction to causal diagrams (DAGs)](https://franciscoyira.com/post/2021-07-11-diagramas-causalidad-cap-3-causal-inference-mixtape/) *(available [in Spanish](https://franciscoyira.com/es/post/2021-07-11-diagramas-causalidad-cap-3-causal-inference-mixtape/))*
 

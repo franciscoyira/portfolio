@@ -37,7 +37,7 @@ This project consisted in tackling some of the Advent of Code puzzles for year 2
 
 - **In-Depth Explanations**: For each challenge, I provide detailed explanations of my thought process, the concepts involved, and the solutions I developed.
 
-- **Code and Visualizations**: My solutions include both the raw code and visualisations (where applicable) to illustrate the problem-solving process more clearly.
+- **Code and Visualizations**: My solutions include both the raw code and visualizations (where applicable) to illustrate the problem-solving process more clearly.
 
 - **Learning and Sharing**: I use AoC as an opportunity to sharpen my programming skills and to share my solutions with others, fostering a community of learning and growth.
 

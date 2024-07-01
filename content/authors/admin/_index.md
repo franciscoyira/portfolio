@@ -1,5 +1,5 @@
 ---
-bio: R, Python, causal inference, machine learning, data visualisation.
+bio: R, Python, causal inference, machine learning, data visualization.
 location:
   city: Toronto
   country: Canada
@@ -22,8 +22,9 @@ highlight_name: true
 interests:
 - Causal Inference and Experimentation
 - Machine Learning and AI
-- Data Visualisation and Dashboards
+- Data Visualization, Dashboards and Reports
 - Scripting and Automation
+- Business Process Improvement and Optimization
 - MLOps and Data Engineering
 
 #  organizations:

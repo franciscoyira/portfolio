@@ -27,7 +27,7 @@ feature:
     name: Advanced SQL
   - icon: chart-line
     icon_pack: fas
-    name: Visualisation and Dashboards
+    name: Visualization and Dashboards
   - icon: vial
     icon_pack: fas
     name: Causal Inference and Experimentation

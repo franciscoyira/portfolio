@@ -15,7 +15,8 @@ main:
     weight: 30
   - name: Contact
     url: '#contact'
-    weight: 40
+    weight: 65
+    icon: envelope
   - name: Blog
     url: 'https://franciscoyira.com'
     weight: 50

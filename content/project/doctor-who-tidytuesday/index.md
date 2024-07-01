@@ -16,7 +16,7 @@ links:
   name: See code
   url: https://franciscoyira.github.io/tidytuesday/contributions/2021_48_ggplot_doctor_who.nb
 #slides: example
-summary: Visualisation of IMDB data about Doctor Who episodes, showing the number of episodes and distribution of ratings by director. This plot uses custom `ggplot` themes and fonts to match Doctor Who's TV show aesthetic. 
+summary: Visualization of IMDB data about Doctor Who episodes, showing the number of episodes and distribution of ratings by director. This plot uses custom `ggplot` themes and fonts to match Doctor Who's TV show aesthetic. 
 tags:
 - R
 - Visualization
@@ -27,6 +27,6 @@ url_slides: ""
 url_video: ""
 ---
 
-Visualisation of IMDB data about Doctor Who episodes, showing the number of episodes and distribution of ratings by director. This plot uses custom `ggplot` themes and fonts to match Doctor Who's TV show aesthetic. 
+Visualization of IMDB data about Doctor Who episodes, showing the number of episodes and distribution of ratings by director. This plot uses custom `ggplot` themes and fonts to match Doctor Who's TV show aesthetic. 
 
-This visualisation was a contribution to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday), a project run by the R Community consisting of weekly challenges to clean and visualise public datasets. The data for this specific contribution was made available through the package [`datardis`](https://cran.r-project.org/web/packages/datardis/index.html).
+This visualization was a contribution to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday), a project run by the R Community consisting of weekly challenges to clean and visualise public datasets. The data for this specific contribution was made available through the package [`datardis`](https://cran.r-project.org/web/packages/datardis/index.html).

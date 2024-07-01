@@ -15,7 +15,7 @@ summary: Using `pandas`, `matplotlib`, and R packages (via `reticulate`) to anal
 tags:
 - Python
 - R
-- Visualisation
+- Visualization
 - Blog posts
 title: Analysing my music collection with Python and R
 url_code: ""
@@ -34,7 +34,7 @@ This analysis involved:
 
 ![](images/example_genius_relacion_remix.png)
 
--   Creating visualisations of my findings with `seaborn` and `matplotlib`. For example:
+-   Creating visualizations of my findings with `seaborn` and `matplotlib`. For example:
 
 ![](images/unnamed-chunk-37-9.png)
 
