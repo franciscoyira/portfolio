@@ -51,5 +51,43 @@
     <br>
     <a href="/post/image-credits/">Credits for the images on the landing page</a>.
   </p>
+  <!-- Add this to the head section of your base template if the partial doesn't have a head section -->
+  <style>
+    .floating-button {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background-color: rgb(52, 126, 222);
+        color: white !important;
+        border: 2px solid white;
+        border-radius: 50px;
+        padding: 15px 30px;
+        font-size: 20px;
+        font-weight: bold;
+        cursor: pointer;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.3s ease;
+    }
+
+    .floating-button:hover {
+        background-color: rgb(42, 106, 202);
+        box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+        text-decoration: none !important;
+    }
+
+    .floating-button i {
+        margin-right: 10px;
+    }
+</style>
+
+<!-- Add this to the body section of your partial -->
+<a href="/#contact" class="floating-button">
+  <i class="fas fa-comment"></i> Let's Talk
+</a>
+
   <a rel="me" href="https://techhub.social/@franciscoyira" style="display:none;">Mastodon</a>
 </footer>
