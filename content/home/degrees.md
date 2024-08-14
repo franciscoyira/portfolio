@@ -30,7 +30,7 @@ experience:
     date_start: '2024-01-05'
     #date_end: '2024-12-24'
     description: |2-
-        A one-year post-graduate program blending computer science, mathematics, and business to develop AI solutions. Cumulative GPA: 3.93.
+        A one-year post-graduate program blending computer science, mathematics, and business to develop AI solutions. Cumulative GPA: 3.94.
         
         Coursework includes:
         * Machine Learning I and II: usage of sci-kit learn, openCV (computer vision), NLP and audio-processing libraries.
