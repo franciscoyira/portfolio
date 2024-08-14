@@ -30,15 +30,26 @@ experience:
     date_start: '2024-01-05'
     #date_end: '2024-12-24'
     description: |2-
-        A one-year post-graduate program blending computer science, mathematics, and business to develop AI solutions. Cumulative GPA: 3.94.
+        A one-year post-graduate program blending computer science, mathematics, and business to develop AI solutions.
+
+        **Cumulative GPA:** 3.94.
+
+        **Academic Award:**
+        * [Dean's Honour List](https://drive.proton.me/urls/KQHYB9EJB4#5sfamaMqZ5rT) (access available [upon request](#contact)).<br><br>
         
-        Coursework includes:
+        **Coursework Highlights:**
         * Machine Learning I and II: usage of sci-kit learn, openCV (computer vision), NLP and audio-processing libraries.
         * Data Visualization Techniques: advanced use of Tableau for reporting and data storytelling.
         * Big Data Techniques: Azure Fundamentals, Hadoop ecosystem (HDFS, Pig, Hive, Beeline), Spark, and ETL processes with SQL Server Integration Services.
         * Foundations of Data Management: Data Management Body of Knowledge framework.
         * Applied Mathematical Concepts for Machine Learning: linear algebra, matrix factorization, TF-IDF, gradient descent, convolution, Fourier transforms, signal processing.
-        * Design Thinking for AI.
+        * Design Thinking for AI.<br><br>
+ 
+
+        **Relevant Documents** (access available [upon request](#contact)):
+        * [Unofficial Transcript](https://drive.proton.me/urls/95VVEKAJM0#bRuIxcA8J4H1).<br><br>
+
+        
   - title: Diploma in Applied Econometrics
     company: University of Chile, Faculty of Economics and Business
     company_url: 'https://ueconomia.uchile.cl/diploma-en-analisis-econometrico/'
@@ -46,7 +57,12 @@ experience:
     location: Santiago, Chile
     date_start: '2020-08-01'
     date_end: '2021-05-01'
-    description: 10-month program covering experimental design, causal inference with observational data and time series analysis.
+    description: |2-
+        10-month program covering experimental design, causal inference with observational data and time series analysis.
+
+        **Relevant Documents** (access available [upon request](#contact)):
+        * [Certificate](https://drive.proton.me/urls/D8HQFN1SQG#vyEOofJ0zcg8).
+        * [Transcript](https://drive.proton.me/urls/ESK6F6Q0W4#N9Vpt5iNFsfb).
         
   - title: Diploma in Big Data
     company: Pontifical Catholic University of Chile, Faculty of Engineering
@@ -55,7 +71,12 @@ experience:
     location: Santiago, Chile
     date_start: '2017-08-01'
     date_end: '2018-05-01'
-    description: 144-hour program covering the fundamentals of machine learning, recommender systems, Hadoop, parallel computing and graph theory.
+    description: |2-
+        144-hour program covering the fundamentals of machine learning, recommender systems, Hadoop, parallel computing and graph theory.
+
+        **Relevant Documents** (access available [upon request](#contact)):
+        * [Certificate](https://drive.proton.me/urls/9XGA30NF8M#beTR9EGoccjo).
+        * [Transcript](https://drive.proton.me/urls/9522D9ET9C#320WxKQvE1IT).
 
   - title: BSc in Economics
     company: University of Chile, Faculty of Economics and Business
@@ -64,7 +85,12 @@ experience:
     location: Santiago, Chile
     date_start: '2010-03-01'
     date_end: '2015-12-01'
-    description: Graduated with distinction. 5-year program.
+    description: |2-
+        Graduated with distinction. 5-year program.
+
+        **Relevant Documents** (access available [upon request](#contact)):
+        * [Certificate](https://drive.proton.me/urls/PSFPK9P164#L2dpDKFoyA5B).
+        * [Transcript](https://drive.proton.me/urls/T8V5SG1B9R#NenVlax8mWjV).
 
 design:
   # background:
