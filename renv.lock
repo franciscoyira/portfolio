@@ -161,7 +161,7 @@
     },
     "httpuv": {
       "Package": "httpuv",
-      "Version": "1.6.4",
+      "Version": "1.6.15",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -172,7 +172,7 @@
         "promises",
         "utils"
       ],
-      "Hash": "3955f7fdf9ffcfd33627d351e69eae0f"
+      "Hash": "d55aa087c47a63ead0f6fc10f8fa1ee0"
     },
     "jquerylib": {
       "Package": "jquerylib",
