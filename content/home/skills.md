@@ -27,13 +27,13 @@ feature:
     name: Advanced SQL
   - icon: chart-line
     icon_pack: fas
-    name: Visualization and Dashboards
+    name: Data Visualization & Analytics
   - icon: vial
     icon_pack: fas
-    name: Causal Inference and Experimentation
-  - icon: microchip
+    name: Causal Inference & Statistical Modeling
+  - icon: brain
     icon_pack: fas
-    name: Machine Learning
+    name: Machine Learning & AI
   - icon: comments
     icon_pack: fas
     name: Effective Communication with Stakeholders

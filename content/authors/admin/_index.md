@@ -20,11 +20,11 @@ education:
 email: "francisco.yira@outlook.com"
 highlight_name: true
 interests:
-- Machine Learning and AI
-- Causal Inference and Experimentation
-- Data Visualization, Dashboards and Reports
+- Machine Learning & AI
+- Causal Inference & Statistical Modelling
+- Data Visualization & Analytics
 - Automation
-- MLOps and Data Engineering
+- MLOps & Data Engineering
 
 #  organizations:
 # - name: Stanford University
@@ -50,8 +50,8 @@ superuser: true
 title: Francisco Yirá
 ---
 
-Hi! I'm Francisco, a data scientist with 6 years of experience across different industries (including retail, Fintech and telco), currently studying Applied AI Solutions Development at George Brown College in Toronto. I am an expert in SQL, R, and Python, and certified on AWS and Tableau.
+Hi! I'm Francisco, a data scientist with 6 years of experience driving business outcomes through statistical modeling and AI. Graduate of Applied AI Solutions Development (GBC) with deep expertise in Python and SQL. Certified in AWS and Tableau, and experienced in Power BI and Lean Six Sigma.
 
-I love using statistical modelling and data to help businesses quantify the impact of what they do and make data-driven decisions. I also enjoy improving business outcomes through machine learning, automation and data management best practices.
+I specialize in applying statistical and machine learning methodologies to measure impact and optimize business processes. My work combines rigorous analytical approaches with automation to enable data-driven decision making across organizations.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "FRANCISCO_ALBORNOZ_resume.pdf" "newtab"  >}}Resume in PDF{{< /staticref >}}
