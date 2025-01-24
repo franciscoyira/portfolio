@@ -22,6 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Analyst, Continuous Improvement and Data Insights Co-Op
+    company: CIBC
+    company_url: 'https://www.cibc.ca/'
+    company_logo: CIBC
+    location: Toronto, Canada
+    date_start: '2024-09-07'
+    description: |2-
+        * Implemented Python-based statistical sampling system to optimize regulatory investigations across millions of complaints, balancing risk focus with broad coverage through user-customizable methodology.
+        * Led initiative to prevent regulatory breaches in complaint handling timelines, developing automated system to detect date misreporting and deliver targeted educational interventions to frontline nation-wide.
+        * Applied statistical analysis to identify root causes of rising anonymous complaint volumes, delivering insights that shaped frontline operational improvements.
+
   - title: Data Scientist
     company: MACH (Fintech)
     company_url: 'https://www.somosmach.com/'
