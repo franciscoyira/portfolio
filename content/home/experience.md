@@ -32,6 +32,7 @@ experience:
         * Implemented Python-based statistical sampling system to optimize regulatory investigations across millions of complaints, balancing risk focus with broad coverage through user-customizable methodology.
         * Led initiative to prevent regulatory breaches in complaint handling timelines, developing automated system to detect date misreporting and deliver targeted educational interventions to frontline nation-wide.
         * Applied statistical analysis to identify root causes of rising anonymous complaint volumes, delivering insights that shaped frontline operational improvements.
+        * Applied Lean Six Sigma methodologies to optimize end-to-end complaint handling processes, advancing data-driven solutions for operational efficiency and compliance requirements.
 
   - title: Data Scientist
     company: MACH (Fintech)
